@@ -1,1 +1,2 @@
-# disaster_tweets
+# NLP with Disaster Tweets
+The purpose of this project is to explore RNNs but more importantly, NLP & text processing, as well as word embeddings and word vectors, utilizing the Disaster Tweets competition in Kaggle (https://www.kaggle.com/c/nlp-getting-started/overview). The two embeddings that were utilized were GloVe and Word2Vec with different RNN topologies. Based on the results of this, it seems like additional preprocessing and feature engineering need to be considered for future iterations of this project.
